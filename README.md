@@ -1,75 +1,95 @@
-<!-- Quote Banner -->
-<p align="center">
-  <img src="https://readme-quote-banners.vercel.app/api?quote=Always%20learning.%20Always%20improving.%20Always%20building.&author=Joshua%20Kimani%20Ngigi&theme=dark" alt="Quote Banner"/>
+<!-- GitHub Header with Animated Elements -->
+<div align="center">
+  
+  <!-- Animated Quote Banner -->
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Always+learning.+Always+improving.+Always+building." alt="Animated Quote" />
+  </div>
+
+  <!-- Profile Header with Gradient -->
+  <h1 align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" height="40" />
+    Hi, I'm <span style="color: #00D4FF">Joshua Kimani Ngigi</span>
+  </h1>
+  
+  <h3 align="center" style="font-weight: 300">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" />
+    Software Engineer | Full-Stack Developer | Tech Innovator
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" />
+  </h3>
+
+  <!-- Profile Metrics -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Kimani-25-kikis&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-blue?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Open%20To-Collaboration-green?style=flat-square" alt="Open to Collaboration" />
+  </p>
+</div>
+
+---
+
+<!-- About Me with Interactive Cards -->
+### 🚀 About Me
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; border: 1px solid #00D4FF33;">
+          <h4>💡 Mission</h4>
+          <p>Building scalable solutions that solve real-world problems through clean, efficient code</p>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; border: 1px solid #00D4FF33;">
+          <h4>🎯 Focus</h4>
+          <p>Backend Systems • Cloud Architecture • Full-Stack Development</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- Enhanced Tech Stack with Categories -->
+### 🛠️ Tech Stack
+<div align="center">
+
+#### **Frontend & UI**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Joshua Kimani Ngigi</h1>
-<h3 align="center">Software Engineer in Progress | Tech Enthusiast | Backend & Full-Stack Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kimani-25-kikis&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+#### **Backend & APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,csharp,dotnet" />
+  <img src="https://img.shields.io/badge/Hono.js-FF6F00?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMjJDNi40NzcgMjIgMiAxNy41MjMgMiAxMlM2LjQ3NyAyIDEyIDJzMTAgNC40NzcgMTAgMTAtNC40NzcgMTAtMTAgMTB6IiBmaWxsPSIjRkY2RjAwIi8+PC9zdmc+" />
 </p>
 
----
-
-### 👨‍💻 About Me
-- 💡 Building software solutions that solve real-world problems  
-- 📚 Currently focused on Backend Development (APIs + Databases)  
-- ⚙️ Always curious, always debugging, always growing  
-- 🤝 Open to collaboration and learning from others in tech  
-
----
-
-### 🧰 My Tech Stack
-<p align="center">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img alt="Hono.js" src="https://img.shields.io/badge/Hono.js-FF6F00?style=for-the-badge&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+#### **Databases & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb,redis,aws,azure,vercel" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
----
-
-### 📊 Skills Progress
-| Skill | Level |
-|-------|-------|
-| Backend Development | 🟩🟩🟩🟩⬜ |
-| Frontend Development | 🟩🟩🟩⬜⬜ |
-| Database Management | 🟩🟩🟩⬜⬜ |
-| Debugging & Problem Solving | 🟩🟩🟩⬜⬜ |
-
-> Progress bars update as I keep growing 🚀
-
----
-
-### 📌 Featured Projects
-✅ To-Do App — CRUD + Hono.js + SQL Server  
-✅ Responsive websites & portfolio pages  
-✅ DOM-based mini apps (Movies, Calculator, etc.)  
-
-More projects coming soon… ✨
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kimani-25-kikis&show_icons=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kimani-25-kikis&theme=tokyonight" height="165" />
+#### **Tools & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,postman" />
 </p>
+</div>
 
 ---
 
-### 🌍 Let’s Connect
-📩 Reach me via email: *(kimaningigijoshua@gmail.com)*  
-
-> 🚀 Always open to learning, collaboration, and new opportunities!
-
----
-
-⭐ “Small progress each day leads to big results.”
+<!-- Interactive Skills Matrix -->
+### 📊 Skills Matrix
+```mermaid
+quadrantChart
+    title "Technology Proficiency Matrix"
+    x-axis "Beginner" → "Expert"
+    y-axis "Frontend" → "Backend"
+    "React": [0.7, 0.3]
+    "Node.js": [0.8, 0.8]
+    "C#/.NET": [0.6, 0.9]
+    "PHP": [0.7, 0.7]
+    "Python": [0.8, 0.8]
+    "SQL Server": [0.9, 0.9]
