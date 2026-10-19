@@ -1,4 +1,4 @@
-<!-- Quote Banner -->
+
 <p align="center">
   <img src="https://readme-quote-banners.vercel.app/api?quote=Always%20learning.%20Always%20improving.%20Always%20building.&author=Joshua%20Kimani%20Ngigi&theme=dark" alt="Quote Banner"/>
 </p>
