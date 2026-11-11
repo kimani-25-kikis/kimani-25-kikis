@@ -209,15 +209,13 @@ The project emphasizes visual presentation and an organized browsing experience.
 University of Embu | August 2025  
 Second Class Upper Division
 
-**Kenya Certificate of Secondary Education (KCSE)**  
-William Ngiru Gitu High School | October 2019  
-Grade: B
 
 ### Certifications
 
 - 🏅 Software Engineering — Teach2Give (2025)
 - 🏅 C# Programming — Microsoft & freeCodeCamp (2026)
 - 🏅 Python Programming — Microsoft & freeCodeCamp (2026)
+- 🏅 JavaScript Programming — Microsoft & freeCodeCamp (2026)
 
 ---
 
